@@ -1,0 +1,6 @@
+﻿Ideas
+
+
+1. Recipe website (think allrecipes but more user friendly?)
+2. League of legends stats viewing page (using riot’s api)
+3. Pokedex app
