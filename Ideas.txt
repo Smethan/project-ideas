@@ -3,4 +3,6 @@
 
 1. Recipe website (think allrecipes but more user friendly?)
 2. League of legends stats viewing page (using riot’s api)
-3. Pokedex app
+3. Pokedex app with working map
+4. Genshin impact artifact optimizer (already exists, but could do my own implementation)
+5. Platformer game in browser

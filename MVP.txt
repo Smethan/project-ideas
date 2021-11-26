@@ -1,0 +1,15 @@
+﻿Pitch: A recipe website where users can upload and share recipes, as well as “fork” other user’s recipes to be modified for their own uses
+
+
+Required Features: 
+1. Users can register an account
+2. Users can upload recipes with instructions
+3. Users can share the recipes
+4. A central “Recipe Hub” where all public recipes can be viewed
+5. Ability to save recipes as private
+6. Ability to scale measurements up and down based on serving size wanted
+7. Ability to “Fork” others User’s recipes to make small changes
+Extras that would be nice:
+1. An iOS/Android app
+2. Scanning feature for handwritten recipes (Using camera + OCR)
+3. Shopping list feature, to tell you what to buy at the store
